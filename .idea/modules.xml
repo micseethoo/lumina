@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lumina/Lumina.iml" filepath="$PROJECT_DIR$/Lumina/Lumina.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/V0.15.6.iml" filepath="$PROJECT_DIR$/.idea/V0.15.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/amogus.iml" filepath="$PROJECT_DIR$/.idea/amogus.iml" />
     </modules>
   </component>
 </project>
